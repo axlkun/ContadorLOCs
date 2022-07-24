@@ -1,7 +1,9 @@
 # ContadorLOCs
-Contador de líneas de código para programas hechos en java
-Muestra:
--Nombre del proyecto
--Cantidad total de clases
--Cantidad total de métodos
--Cantidad total de líneas de código
+Lines of code counter for programs developed with java
+Returns:
+-Project's name
+-Total number of classes
+-Total number of methods
+-Total number of lines of code
+
+Developed with Java
